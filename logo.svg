@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="OneModelRouter">
+  <!-- 一模路通 定稿标志 · The One Fork（数字 1 分三路，三路汇入节点）
+       纯 currentColor，可随前景色自适应（深色 hero 用白色，浅色页用墨色）。 -->
+  <g fill="none" stroke="currentColor" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 42 L106 58"/>
+    <path d="M128 42 V122"/>
+    <path d="M128 122 V194"/>
+    <path d="M128 122 C128 142 106 154 78 170"/>
+    <path d="M128 122 C128 142 150 154 178 170"/>
+  </g>
+  <g fill="currentColor">
+    <circle cx="128" cy="194" r="16"/>
+    <circle cx="78" cy="170" r="16"/>
+    <circle cx="178" cy="170" r="16"/>
+  </g>
+</svg>
